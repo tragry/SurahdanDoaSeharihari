@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/doa"
+        android:title="Doa"
+        android:icon="@drawable/ic_doa"/>
+    <item
+        android:id="@+id/kosong"
+        android:title=""
+        />
+    <item
+        android:id="@+id/juzama"
+        android:title="Juz Ama"
+        android:icon="@drawable/ic_juzama"/>
+    <item
+        android:id="@+id/info"
+        android:title="Info"
+        android:icon="@drawable/ic_info"/>
+</menu>

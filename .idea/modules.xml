@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Surah_dan_Doa_Sehari_hari.iml" filepath="$PROJECT_DIR$/.idea/modules/Surah_dan_Doa_Sehari_hari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Surah_dan_Doa_Sehari_hari.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Surah_dan_Doa_Sehari_hari.app.iml" />
+    </modules>
+  </component>
+</project>
